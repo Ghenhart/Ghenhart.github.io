@@ -1,4 +1,4 @@
-### Hi, Im Ghen! 
+### Hi, Im Genevie Evon! 
 
 :rocket: Manual Tester sharing about my journey and learning in Software industry<br/>
 :school: Studied [Graphic Arts](https://www.tup.edu.ph/) at the Technological University of the Philippines<br/>
