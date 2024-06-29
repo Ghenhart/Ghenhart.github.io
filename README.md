@@ -7,5 +7,5 @@
 [![Ghen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghenhart)](https://github.com/Ghenhart/github-readme-stats)<br  />
 <br  />
 ### Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira,postman,trello,react,vue,flutter&perline=3)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira,postman,trello,&perline=3)
 
