@@ -23,6 +23,9 @@ scrum workflow<br/>
 Being a junior software tester at Affinityx is my first professional position strictly in QA area. I have made a significant growth on my skills and developed some know-how in manual test and test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct data and design and report any bugs and defects. I have grown very fond of this role, which has also made me interested in the Software QA path. My previous QA experience, although unrelated to the software world, has allowed me to develop valuable soft skills in particular, including communication and patience.
 <br  />
 ### Samples
-1. Banking Project
+1. Banking Project<br/>
    [Test Case](https://docs.google.com/spreadsheets/d/1oHxt4sJzZEiamMhpENSnQp03f7v9YQGDcv0wzor3vUg/edit?gid=1036213420#gid=1036213420)<br/>
+   [Bug Report](https://docs.google.com/spreadsheets/d/1FHLrwyzIW95_ttV7VkNMiATEFBphv5Puj0xtrepIAbY/edit?gid=0#gid=0)<br/>
+   ![image](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/ae48f69c-ac6a-4a3f-9198-61495baf4694)
+
    
