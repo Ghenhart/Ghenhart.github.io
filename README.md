@@ -5,11 +5,10 @@
 :books: Still Studying Web Automation [Course](https://www.udemy.com/)
 
 
-
-
-
-
-
 [![Ghen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghenhart)](https://github.com/Ghenhart/github-readme-stats)
 
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,postman,react,&perline=3)](https://skillicons.dev)
 
