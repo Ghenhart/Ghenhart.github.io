@@ -30,5 +30,8 @@ Being a junior software tester at Affinityx is my first professional position st
 Zephyre Scale using Jira
 
 ![image](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/69316b21-da5f-4d58-b672-80a58767809d)
+Basic Rest API Testing
+![image](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/a47f4aed-1347-410d-b8a7-125b5f52a49f)
+
 
    
