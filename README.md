@@ -1,5 +1,7 @@
 ### Hi, Im Ghen! 
 
+:rocket: Manual Tester sharing about my journey and learning in Software industry
+
 
 
 
