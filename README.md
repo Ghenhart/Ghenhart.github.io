@@ -28,6 +28,7 @@ Being a junior software tester at Affinityx is my first professional position st
    [Bug Report](https://docs.google.com/spreadsheets/d/1FHLrwyzIW95_ttV7VkNMiATEFBphv5Puj0xtrepIAbY/edit?gid=0#gid=0)<br/>
 <br  />
 ### Test Cases and Execution using Zephyr Scale in Jira
-   ![image](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/ae48f69c-ac6a-4a3f-9198-61495baf4694)
+
+![image](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/69316b21-da5f-4d58-b672-80a58767809d)
 
    
