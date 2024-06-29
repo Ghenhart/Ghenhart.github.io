@@ -10,5 +10,5 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,postman,react,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,postman,&perline=3)](https://skillicons.dev)
 
