@@ -10,3 +10,4 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira,postman,trello,&perline=3)
 ### Others
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=illustrator,photoshop,indesign,excel,powerpoint,&perline=3)
+### Tech Skill :computer:
