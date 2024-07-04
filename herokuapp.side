@@ -1,0 +1,221 @@
+{
+  "id": "8fd0f74d-a922-47bf-ae45-6705e2429f4e",
+  "version": "2.0",
+  "name": "herokuapp",
+  "url": "https://the-internet.herokuapp.com",
+  "tests": [{
+    "id": "fca10e3c-9d3e-4883-9732-04310a8d9437",
+    "name": "Log in using a valid data",
+    "commands": [{
+      "id": "bada0378-30fd-4325-8f53-af7f38179db5",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9c3830c0-14d0-41e1-928a-b255ad23d29a",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x754",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8d2535ae-2f30-4578-8a49-902665b2fcc3",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Form Authentication",
+      "targets": [
+        ["linkText=Form Authentication", "linkText"],
+        ["css=li:nth-child(21) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Form Authentication')]", "xpath:link"],
+        ["xpath=//div[@id='content']/ul/li[21]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/login')]", "xpath:href"],
+        ["xpath=//li[21]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Form Authentication')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f1a42b66-b158-43fa-926a-da31380a25fc",
+      "comment": "",
+      "command": "click",
+      "target": "id=username",
+      "targets": [
+        ["id=username", "id"],
+        ["name=username", "name"],
+        ["css=#username", "css:finder"],
+        ["xpath=//input[@id='username']", "xpath:attributes"],
+        ["xpath=//form[@id='login']/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e089e813-fd0c-498b-b5f4-60d12c3659d5",
+      "comment": "",
+      "command": "type",
+      "target": "id=username",
+      "targets": [
+        ["id=username", "id"],
+        ["name=username", "name"],
+        ["css=#username", "css:finder"],
+        ["xpath=//input[@id='username']", "xpath:attributes"],
+        ["xpath=//form[@id='login']/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "tomsmith"
+    }, {
+      "id": "5ffa7937-53ab-4ace-a4c5-4a13f969fa93",
+      "comment": "",
+      "command": "type",
+      "target": "id=password",
+      "targets": [
+        ["id=password", "id"],
+        ["name=password", "name"],
+        ["css=#password", "css:finder"],
+        ["xpath=//input[@id='password']", "xpath:attributes"],
+        ["xpath=//form[@id='login']/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "SuperSecretPassword!"
+    }, {
+      "id": "1a2eb993-97c7-4fe0-959e-89fcc197d393",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa",
+      "targets": [
+        ["css=.fa", "css:finder"],
+        ["xpath=//form[@id='login']/button/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"],
+        ["xpath=//i[contains(.,' Login')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c46e13f7-6149-45cb-ac39-89c5fb38f305",
+      "comment": "",
+      "command": "click",
+      "target": "css=.icon-2x",
+      "targets": [
+        ["css=.icon-2x", "css:finder"],
+        ["xpath=//div[@id='content']/div/a/i", "xpath:idRelative"],
+        ["xpath=//a/i", "xpath:position"],
+        ["xpath=//i[contains(.,'Logout')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "90141865-8dc4-40f3-9dcd-41b1917c6b6e",
+    "name": "Verify Dragging and Dropping",
+    "commands": [{
+      "id": "80f591f1-88db-4f65-bc56-c61428a6b212",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c9a0435c-3c55-4aae-86ab-c78e452e22e6",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x754",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "18bc6dc9-da87-41cf-a24c-d42f965250a0",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Drag and Drop",
+      "targets": [
+        ["linkText=Drag and Drop", "linkText"],
+        ["css=li:nth-child(10) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Drag and Drop')]", "xpath:link"],
+        ["xpath=//div[@id='content']/ul/li[10]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/drag_and_drop')]", "xpath:href"],
+        ["xpath=//li[10]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Drag and Drop')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "da9dbe00-a723-443f-869c-caf830ac5ba8",
+      "comment": "",
+      "command": "dragAndDropToObject",
+      "target": "id=column-a",
+      "targets": [],
+      "value": "id=column-b"
+    }, {
+      "id": "a7568a86-6cd0-4411-b2d4-d420be7a7ccb",
+      "comment": "",
+      "command": "dragAndDropToObject",
+      "target": "id=column-b",
+      "targets": [],
+      "value": "id=column-a"
+    }, {
+      "id": "30d001d9-5222-4ae8-b8ba-d257cff66e8d",
+      "comment": "",
+      "command": "click",
+      "target": "css=html",
+      "targets": [
+        ["css=html", "css:finder"],
+        ["xpath=//html", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "a51cad81-ebfb-4024-927f-05a6c0459eb8",
+    "name": "Verify downloading a file",
+    "commands": [{
+      "id": "3cfa26c9-daa1-46f8-96e2-b0a0d35f398b",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "787dd28d-9cf3-4d02-a9f4-51c48284a3c8",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x754",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "94ced6c9-f233-47f8-8640-a0c6ac740e17",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=File Download",
+      "targets": [
+        ["linkText=File Download", "linkText"],
+        ["css=li:nth-child(17) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'File Download')]", "xpath:link"],
+        ["xpath=//div[@id='content']/ul/li[17]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/download')]", "xpath:href"],
+        ["xpath=//li[17]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'File Download')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e992d6fc-9885-41a9-a49f-355060c507ac",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Blackhole.png",
+      "targets": [
+        ["linkText=Blackhole.png", "linkText"],
+        ["css=a:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Blackhole.png')]", "xpath:link"],
+        ["xpath=//div[@id='content']/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'download/Blackhole.png')]", "xpath:href"],
+        ["xpath=//div/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Blackhole.png')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "7b9f3a1d-36c7-4f9a-808e-1f35b51b8648",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["fca10e3c-9d3e-4883-9732-04310a8d9437"]
+  }],
+  "urls": ["https://the-internet.herokuapp.com/"],
+  "plugins": []
+}
