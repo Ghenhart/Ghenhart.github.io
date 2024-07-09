@@ -9,7 +9,7 @@
 ### Tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira,postman,trello,&perline=3)
 ### Others
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=illustrator,photoshop,indesign,excel,powerpoint,&perline=3)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,illustrator,photoshop,indesign,excel,powerpoint,&perline=3)
 ### Tech Skill :computer:
 Basic Rest API testing<br/>
 Basic knowledge about other software development models (waterfall, v model)<br/>
