@@ -31,7 +31,7 @@ Being a junior software tester at Affinityx is my first professional position st
    [Test Case](https://docs.google.com/spreadsheets/d/1oHxt4sJzZEiamMhpENSnQp03f7v9YQGDcv0wzor3vUg/edit?gid=1036213420#gid=1036213420)<br/>
    [Bug Report](https://docs.google.com/spreadsheets/d/1FHLrwyzIW95_ttV7VkNMiATEFBphv5Puj0xtrepIAbY/edit?gid=0#gid=0)<br/>
 <br  />
-Basic SQL Query
+Basic SQL
 
 ![SQL 1](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/0c954b0d-f7b4-4e7a-9509-9f4801e5a8c2)
 
