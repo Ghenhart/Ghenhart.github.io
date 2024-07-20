@@ -38,7 +38,7 @@ Basic SQL
 ![SQL 2](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/eb582559-305e-4f02-b773-002b4d24b0cd)
 
 
-Zephyre Scale using Jira
+Zephyr Scale using Jira
 
 ![image](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/69316b21-da5f-4d58-b672-80a58767809d)
 Basic Rest API Testing
