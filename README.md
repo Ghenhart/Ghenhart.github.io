@@ -7,7 +7,7 @@
 [![Ghen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghenhart)](https://github.com/Ghenhart/github-readme-stats)<br  />
 <br  />
 ### Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira,postman,trello,&perline=3)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,jira,postman,trello,&perline=3)
 ### Others
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,illustrator,photoshop,indesign,excel,powerpoint,&perline=3)
 ### Tech Skill :computer:
@@ -43,8 +43,10 @@ Zephyr Scale using Jira
 ![image](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/69316b21-da5f-4d58-b672-80a58767809d)
 Basic Rest API Testing
 ![image](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/a47f4aed-1347-410d-b8a7-125b5f52a49f)
-Performance Testing using JMeter/BlazeMeter/BlazeDemo
-
-
-   
+Performance Testing using JMeter/BlazeMeter/BlazeDemo   
 ![1335a085-1c60-42d7-a980-c0bd98ed62ef](https://github.com/Ghenhart/Ghenhart.github.io/assets/168949583/3fe76507-b770-4256-878b-e13596bc29f5)
+Java If Statement
+![Screenshot 2024-09-26 082931](https://github.com/user-attachments/assets/23459cf0-1a58-4675-aae4-152ed605860a)
+
+
+
