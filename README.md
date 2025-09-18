@@ -30,6 +30,10 @@ scrum workflow<br/>
 ### Udemy Certification
 [Professional Diploma in Software Testing & Quality Assurance](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a4ebb973-1c91-422d-b9ce-fa2c808e6320.pdf)<br/>
 
+### My Behance and Upwork Profile
+https://www.behance.net/ghenchavez<br/>
+https://www.upwork.com/freelancers/~01668a5c32a98a41dd<br/>
+
 ### Samples
 1. Banking Project<br/>
    [Sample SRS](https://docs.google.com/document/d/1zVTHDMHlAhHsaio9xdQwSQA9_-JCLqGiws-FH9kD2yA/edit)<br/>
