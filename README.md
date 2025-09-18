@@ -1,6 +1,6 @@
 ### Hi, Im Genevie Evon! 
 
-:rocket: Manual Tester sharing about my journey and learning in Software industry<br/>
+:rocket: Quality Assurance sharing about my journey and learning<br/>
 :school: Studied [Graphic Arts](https://www.tup.edu.ph/) at the Technological University of the Philippines<br/>
 :books: Strong Eye for Detail, Analytical & Problem-Solving Skills, Time Management & Multitasking Collaboration with Cross-Functional Teams, Process Improvement & Accuracy Checking<br  />
 
@@ -35,6 +35,8 @@ https://www.behance.net/ghenchavez<br/>
 https://www.upwork.com/freelancers/~01668a5c32a98a41dd<br/>
 
 ### Samples
+
+
 1. Banking Project<br/>
    [Sample SRS](https://docs.google.com/document/d/1zVTHDMHlAhHsaio9xdQwSQA9_-JCLqGiws-FH9kD2yA/edit)<br/>
    [Test Case](https://docs.google.com/spreadsheets/d/1oHxt4sJzZEiamMhpENSnQp03f7v9YQGDcv0wzor3vUg/edit?gid=1036213420#gid=1036213420)<br/>
