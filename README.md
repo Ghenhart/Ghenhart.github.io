@@ -2,13 +2,22 @@
 
 :rocket: Manual Tester sharing about my journey and learning in Software industry<br/>
 :school: Studied [Graphic Arts](https://www.tup.edu.ph/) at the Technological University of the Philippines<br/>
-:books: Still Studying Web Automation [Course](https://www.udemy.com/)<br  />
+:books: Strong Eye for Detail, Analytical & Problem-Solving Skills, Time Management & Multitasking Collaboration with Cross-Functional Teams, Process Improvement & Accuracy Checking<br  />
+
+### My Job Experience :handbag:
+A Quality Assurance and Pre-Press Specialist seeking a challenging position where I can apply my 10+ years of experience in quality control, manual testing, and digital design, while continuing to grow my skills in QA tools and processes
+<br  />
 
 ### Tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,jira,postman,trello,&perline=3)
 ### Others
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,illustrator,photoshop,indesign,excel,powerpoint,&perline=3)
 ### Tech Skill :computer:
+Adobe Illustrator & Photoshop<br/> 
+Esko Pilot & Global Vision<br/> 
+Microsoft PowerPoint & Excel<br/>
+HTML, Responsive Ads, Static Ads, Rich Media<br/> 
+### As a Manual Tester:
 Basic Rest API testing<br/>
 Basic knowledge about other software development models (waterfall, v model)<br/>
 Software testing<br/>
@@ -17,9 +26,7 @@ Reporting bugs<br/>
 Creating bug reports<br/>
 scrum workflow<br/>
 <br  />
-### My Job Experience :handbag:
-Being a junior software tester at Affinityx is my first professional position strictly in QA area. I have made a significant growth on my skills and developed some know-how in manual test and test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct data and design and report any bugs and defects. I have grown very fond of this role, which has also made me interested in the Software QA path. My previous QA experience, although unrelated to the software world, has allowed me to develop valuable soft skills in particular, including communication and patience.
-<br  />
+
 ### Udemy Certification
 [Professional Diploma in Software Testing & Quality Assurance](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a4ebb973-1c91-422d-b9ce-fa2c808e6320.pdf)<br/>
 
